@@ -15,6 +15,10 @@ const Home: NextPage = () => {
             <Hero />
         </section>
 
+        <section>
+
+        </section>
+
     </div>
   )
 }

@@ -22,7 +22,7 @@ export default function Hero({}: Props) {
                 className="relative rounded-full h-32 w-45 mx-auto object-cover"
                 src="https://le-cdn.website-editor.net/65007886f4ed4116af12862843d6ad56/dms3rep/multi/opt/LOGO+jaune+GTULM_D-1920w.png"
                 alt=""/>
-            <div>
+            <div className="z-20">
                 <h2 className="text-sm uppercase text-gray-500 pb-2 tracking-[15px]">
                     GAP-TALLARD ULM
                 </h2>
